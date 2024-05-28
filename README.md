@@ -3,5 +3,5 @@
 <br>
 🎆Aimed at providing a robust solution for email management within web applications. 
 <br>
-Whether you're sending transactional emails, notifications, or newsletters.
-🎇
+🎇Whether you're sending transactional emails, notifications, or newsletters.
+
